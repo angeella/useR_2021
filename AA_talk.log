@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.9)  22 JUN 2021 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.9)  22 JUN 2021 10:53
 entering extended mode
 **./AA_talk.tex
 (AA_talk.tex
@@ -1649,12 +1649,12 @@ File: Images/Githu.png Graphic file (type png)
 <use Images/Githu.png>
 Package pdftex.def Info: Images/Githu.png  used on input line 325.
 (pdftex.def)             Requested size: 15.43411pt x 15.42992pt.
-<Images/twitter.png, id=109, 903.375pt x 903.375pt>
+<Images/twitter.png, id=110, 903.375pt x 903.375pt>
 File: Images/twitter.png Graphic file (type png)
 <use Images/twitter.png>
 Package pdftex.def Info: Images/twitter.png  used on input line 325.
 (pdftex.def)             Requested size: 12.85849pt x 12.84703pt.
-<Images/email.png, id=110, 2409.0pt x 2409.0pt>
+<Images/email.png, id=111, 2409.0pt x 2409.0pt>
 File: Images/email.png Graphic file (type png)
 <use Images/email.png>
 Package pdftex.def Info: Images/email.png  used on input line 325.
@@ -1706,9 +1706,9 @@ KTeX 2.9/fonts/type1/public/fira/FiraSans-Italic.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmss10.pfb>
-Output written on AA_talk.pdf (10 pages, 639738 bytes).
+Output written on AA_talk.pdf (10 pages, 640104 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
+ 169 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
  204 words of extra memory for PDF output out of 10000 (max. 10000000)
 
